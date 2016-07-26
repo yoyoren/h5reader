@@ -1,0 +1,1162 @@
+{
+	hash: "18efeb3107ef583e1c34515c405d0f86",
+	keyword: "channel-h5-home-boy",
+	hidden_info: "[[title|男生频道;]]",
+	items: [{
+		hidden_info: "[[type|book-list;show_vertical|1;title_align|left;show_count|5;more_text|;url|;subscript|]]",
+		ad_type: 101,
+		ad_priority: 1,
+		width: 0,
+		reference_id: "11067",
+		ad_pic_url: "",
+		ad_name: "最受关注",
+		height: 0,
+		data: {
+			count: 5,
+			total: 6,
+			data: [{
+				ad: 0,
+				word_count: 2334360,
+				owner: 0,
+				allow_discount: 0,
+				ad_time: 3,
+				ad_duration: 5,
+				score_count: 20,
+				title: "茅山术之捉鬼人",
+				on_sale: true,
+				comment_count: 0,
+				click: 211110,
+				latest_id: 1027,
+				score: 8.5,
+				allow_free_read: 1,
+				rights_id: 10080,
+				channel: [
+					1
+				],
+				updated: 1466425605,
+				finish: false,
+				tags: [
+					"恐怖惊悚",
+					"灵异"
+				],
+				price: 0,
+				chapter_count: 1028,
+				authors: "夜雨夜语",
+				categories: [{
+					category_id: 8000000,
+					label: "灵异"
+				}, {
+					category_id: 8000200,
+					label: "恐怖惊悚"
+				}],
+				rights: "阅文集团旗下创世中文网",
+				level: 0,
+				cover: "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01cfWkCs6Gk/IyuigbUN7XYaOr.jpg",
+				summary: "无上甚深微妙法，百千万劫难遭遇，茅山禁术杀鬼令。主角王小七，自小跟随师傅学道，十八岁离开师傅，身入红...",
+				fiction_id: 318688,
+				outer_id: "56d7adc150e3a4745f9c248f",
+				latest: "第一千二十二章 母虫"
+			}, {
+				ad: 0,
+				word_count: 1710046,
+				owner: 0,
+				allow_discount: 0,
+				ad_time: 3,
+				ad_duration: 5,
+				score_count: 196,
+				title: "无敌小村医",
+				on_sale: true,
+				comment_count: 0,
+				click: 4750127,
+				latest_id: 813,
+				score: 7.47,
+				allow_free_read: 1,
+				rights_id: 10080,
+				channel: [
+					1
+				],
+				updated: 1468296064,
+				finish: false,
+				tags: [
+					"都市生活",
+					"都市"
+				],
+				price: 5,
+				chapter_count: 814,
+				authors: "安庸龙",
+				categories: [{
+					category_id: 5000000,
+					label: "都市"
+				}, {
+					category_id: 5000100,
+					label: "都市生活"
+				}],
+				rights: "阅文集团旗下创世中文网",
+				level: 0,
+				cover: "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01C1PdeHt03/uMm1tfqwCkDH6M.jpg",
+				summary: "这是一个懂武功、精医术的小村医游历花丛爽到爆的故事。 村花、村嫂、村姨还有城里来的美女村支书、富姐、...",
+				fiction_id: 315104,
+				outer_id: "563abf2e50e3a468335d1d64",
+				latest: "第742章心神不宁"
+			}, {
+				ad: 0,
+				word_count: 3486442,
+				owner: 0,
+				allow_discount: 0,
+				ad_time: 3,
+				ad_duration: 5,
+				score_count: 670,
+				title: "功夫圣医",
+				on_sale: true,
+				comment_count: 20,
+				click: 9391323,
+				latest_id: 1205,
+				score: 7.91,
+				allow_free_read: 1,
+				rights_id: 10080,
+				channel: [
+					1
+				],
+				updated: 1468267221,
+				finish: false,
+				tags: [
+					"丹药",
+					"强者回归",
+					"热血",
+					"爽文",
+					"异术超能",
+					"都市异能",
+					"都市",
+					"热血都市"
+				],
+				price: 5,
+				chapter_count: 1206,
+				authors: "天下青空",
+				categories: [{
+					category_id: 20000,
+					label: "热血都市"
+				}, {
+					category_id: 20300,
+					label: "都市异能"
+				}, {
+					category_id: 5000000,
+					label: "都市"
+				}, {
+					category_id: 5000300,
+					label: "异术超能"
+				}],
+				rights: "阅文集团旗下起点中文网",
+				level: 0,
+				cover: "http://cover.read.duokan.com/mfsv2/download/s010/p01AUBzbyGYY/x8CrX7ldgfvjSV.jpg",
+				summary: "翩翩少年，只因身世贫寒，尝尽世间冷暖，意外苏醒了一世记忆。",
+				fiction_id: 279947,
+				outer_id: "5581403950e3a407a215a565",
+				latest: "第1204章 小蛮危机"
+			}, {
+				ad: 0,
+				word_count: 1264986,
+				owner: 0,
+				allow_discount: 0,
+				ad_time: 3,
+				ad_duration: 5,
+				score_count: 66,
+				title: "超品教师",
+				on_sale: true,
+				comment_count: 0,
+				click: 2315660,
+				latest_id: 601,
+				score: 8.27,
+				allow_free_read: 1,
+				rights_id: 10080,
+				channel: [
+					1
+				],
+				updated: 1468313588,
+				finish: false,
+				tags: [
+					"异术超能",
+					"都市"
+				],
+				price: 5,
+				chapter_count: 602,
+				authors: "坐者",
+				categories: [{
+					category_id: 5000000,
+					label: "都市"
+				}, {
+					category_id: 5000300,
+					label: "异术超能"
+				}],
+				rights: "阅文集团旗下创世中文网",
+				level: 0,
+				cover: "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01eKkHyWGZy/H94v5MgmJoSqd9.jpg",
+				summary: "特战兵王许乐回归都市，各色美女蜂拥而至，且看他如何翻云覆雨，天下无敌。 “老子的学生不准其他人欺负...",
+				fiction_id: 319922,
+				outer_id: "5718454e50e3a46f472a60a1",
+				latest: "第602章 孤独寂寞冷？"
+			}, {
+				ad: 0,
+				word_count: 1258407,
+				owner: 0,
+				allow_discount: 0,
+				ad_time: 3,
+				ad_duration: 5,
+				score_count: 37,
+				title: "透视医王",
+				on_sale: true,
+				comment_count: 0,
+				click: 649122,
+				latest_id: 567,
+				score: 8.7,
+				allow_free_read: 1,
+				rights_id: 10080,
+				channel: [
+					1
+				],
+				updated: 1468312965,
+				finish: false,
+				tags: [
+					"异术超能",
+					"都市"
+				],
+				price: 5,
+				chapter_count: 568,
+				authors: "美女请自重",
+				categories: [{
+					category_id: 5000000,
+					label: "都市"
+				}, {
+					category_id: 5000300,
+					label: "异术超能"
+				}],
+				rights: "阅文集团旗下创世中文网",
+				level: 0,
+				cover: "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01XEbOSyMk9/jQg4VlreRXDzCW.jpg",
+				summary: "女的留下，男的离开，有钱的站左边，好看的站右边，都没有的请离开！ 别用那种龌蹉的眼神看我，只是治...",
+				fiction_id: 319710,
+				outer_id: "5718455050e3a46f462a609d",
+				latest: "第568章 王灭之夜？"
+			}, {
+				ad: 0,
+				word_count: 1761771,
+				owner: 0,
+				allow_discount: 0,
+				ad_time: 3,
+				ad_duration: 5,
+				score_count: 29,
+				title: "我的娇美总裁老婆",
+				on_sale: true,
+				comment_count: 0,
+				click: 1018625,
+				latest_id: 844,
+				score: 6.62,
+				allow_free_read: 1,
+				rights_id: 10080,
+				channel: [
+					1
+				],
+				updated: 1468319014,
+				finish: false,
+				tags: [
+					"异术超能",
+					"都市"
+				],
+				price: 5,
+				chapter_count: 845,
+				authors: "超级爱钱货",
+				categories: [{
+					category_id: 5000000,
+					label: "都市"
+				}, {
+					category_id: 5000300,
+					label: "异术超能"
+				}],
+				rights: "阅文集团旗下创世中文网",
+				level: 0,
+				cover: "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01czbCB2bFr/g001JJ6NbPk7CM.jpg",
+				summary: "【最火爆新书】 我叫刘晨，喜欢女人，更喜欢征服女人，什么霸道女总裁，清纯妹子，火辣秘书，风流女大佬...",
+				fiction_id: 321942,
+				outer_id: "574d605f50e3a408f6ee6246",
+				latest: "第836章 五天变强"
+			}]
+		},
+		size: 0
+	}, {
+		hidden_info: "[[type|book-list;show_vertical|1;title_align|left;show_count|5;more_text|更多主编推荐>>]]",
+		ad_type: 101,
+		ad_priority: 2,
+		width: 0,
+		reference_id: "11068",
+		ad_pic_url: "",
+		ad_name: "主编推荐",
+		height: 0,
+		data: {
+			count: 5,
+			total: 6,
+			data: [{
+				ad: 0,
+				word_count: 714970,
+				owner: 0,
+				allow_discount: 0,
+				ad_time: 3,
+				ad_duration: 5,
+				score_count: 9,
+				title: "血剑吟",
+				on_sale: true,
+				comment_count: 0,
+				click: 57875,
+				latest_id: 337,
+				score: 6.44,
+				allow_free_read: 1,
+				rights_id: 10080,
+				channel: [
+					1
+				],
+				updated: 1468319645,
+				finish: false,
+				tags: [
+					"武侠",
+					"新派武侠"
+				],
+				price: 5,
+				chapter_count: 338,
+				authors: "枫零无心",
+				categories: [{
+					category_id: 3000000,
+					label: "武侠"
+				}, {
+					category_id: 3000200,
+					label: "新派武侠"
+				}],
+				rights: "阅文集团旗下创世中文网",
+				level: 0,
+				cover: "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01gw7ke1n4S/wLSTPc58ZKW6ka.jpg",
+				summary: "十三年前，衡阳洛家偶得玄冥诀，岂料消息走漏，沥血剑之主上门抢夺，一夜之间，满门被灭，只余他一人在世。...",
+				fiction_id: 319588,
+				outer_id: "5718456750e3a46f402a60d5",
+				latest: "第三百三十八章 唯一选择（十五更！）"
+			}, {
+				ad: 0,
+				word_count: 462027,
+				owner: 0,
+				allow_discount: 0,
+				ad_time: 3,
+				ad_duration: 5,
+				score_count: 17,
+				title: "最强狂暴升级",
+				on_sale: true,
+				comment_count: 0,
+				click: 75470,
+				latest_id: 213,
+				score: 7.52,
+				allow_free_read: 1,
+				rights_id: 10080,
+				channel: [
+					1
+				],
+				updated: 1468319427,
+				finish: false,
+				tags: [
+					"王朝争霸",
+					"异界争霸",
+					"玄幻"
+				],
+				price: 5,
+				chapter_count: 214,
+				authors: "乌龟战王八",
+				categories: [{
+					category_id: 1000000,
+					label: "玄幻"
+				}, {
+					category_id: 1000300,
+					label: "异界争霸"
+				}],
+				rights: "阅文集团旗下创世中文网",
+				level: 0,
+				cover: "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01eiOVIyRq8/eDOC0WjfG52st8.jpg",
+				summary: "手握诛仙剑，肩扛盘古斧。 身穿九霄甲，脚踏至尊鞋。 踩尽诸天天才，我的目标是：“成为史上最强的男...",
+				fiction_id: 322636,
+				outer_id: "5755f9b250e3a412a7a48fb3",
+				latest: "第二百一十二章 【兵马俑，白起】"
+			}, {
+				ad: 0,
+				word_count: 6618286,
+				owner: 0,
+				allow_discount: 0,
+				ad_time: 3,
+				ad_duration: 5,
+				score_count: 15,
+				title: "美女的超级保镖",
+				on_sale: true,
+				comment_count: 0,
+				click: 651337,
+				latest_id: 3713,
+				score: 6.66,
+				allow_free_read: 1,
+				rights_id: 10080,
+				channel: [
+					1
+				],
+				updated: 1462858630,
+				finish: true,
+				tags: [
+					"林枫",
+					"苏小蛮",
+					"秦婉蓉",
+					"都市",
+					"都市生活"
+				],
+				price: 5,
+				chapter_count: 3714,
+				authors: "日月星辰",
+				categories: [{
+					category_id: 5000000,
+					label: "都市"
+				}, {
+					category_id: 5000100,
+					label: "都市生活"
+				}],
+				rights: "阅文集团旗下塔读文学",
+				level: 0,
+				cover: "http://cover.read.duokan.com/mfsv2/download/fdsc3/p014rEgqyQXZ/91vNh8x6MNiMQl.jpg",
+				summary: "杀手界的王者降临都市，成为了超级美女校花的保镖，不曾想卷入了无数的是非当中，伴随着这些是非又有无数的...",
+				fiction_id: 321375,
+				outer_id: "5731560c50e3a4059b876179",
+				latest: "第3714章 人人为龙"
+			}, {
+				ad: 0,
+				word_count: 437432,
+				owner: 0,
+				allow_discount: 0,
+				ad_time: 3,
+				ad_duration: 5,
+				score_count: 8,
+				title: "天才武圣在都市",
+				on_sale: true,
+				comment_count: 0,
+				click: 81318,
+				latest_id: 202,
+				score: 9,
+				allow_free_read: 1,
+				rights_id: 10080,
+				channel: [
+					1
+				],
+				updated: 1468264626,
+				finish: false,
+				tags: [
+					"武侠",
+					"国术武技"
+				],
+				price: 5,
+				chapter_count: 203,
+				authors: "锅里汤圆",
+				categories: [{
+					category_id: 3000000,
+					label: "武侠"
+				}, {
+					category_id: 3000300,
+					label: "国术武技"
+				}],
+				rights: "阅文集团旗下创世中文网",
+				level: 0,
+				cover: "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01gvyDOxPYm/dV1PzWwmk7wSvL.jpg",
+				summary: "天生奇才，武道圣者！ 高中文化，特长打架的方浩，出师下山，来到繁华的大都市，阴差阳错下，成了管理女...",
+				fiction_id: 320223,
+				outer_id: "5718456850e3a46f402a60d6",
+				latest: "第两百零二章 中国雷锋"
+			}, {
+				ad: 0,
+				word_count: 1430873,
+				owner: 0,
+				allow_discount: 0,
+				ad_time: 3,
+				ad_duration: 5,
+				score_count: 10,
+				title: "校花的超级高手",
+				on_sale: true,
+				comment_count: 0,
+				click: 120690,
+				latest_id: 665,
+				score: 7.6,
+				allow_free_read: 1,
+				rights_id: 10080,
+				channel: [
+					1
+				],
+				updated: 1462866334,
+				finish: true,
+				tags: [
+					"杨晨",
+					"刘华",
+					"李楠",
+					"吴杰",
+					"都市",
+					"都市生活"
+				],
+				price: 5,
+				chapter_count: 666,
+				authors: "巅峰的神",
+				categories: [{
+					category_id: 5000000,
+					label: "都市"
+				}, {
+					category_id: 5000100,
+					label: "都市生活"
+				}],
+				rights: "阅文集团旗下塔读文学",
+				level: 0,
+				cover: "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01f4Lbw5PDX/jb5oRpxcM4CH5m.jpg",
+				summary: "杨晨，命运坎坷，被迫参军入伍，历经战火硝烟锤炼成长为真正的强者，回归都市，与校花的美妙情缘和牛叉热血...",
+				fiction_id: 321667,
+				outer_id: "5731560750e3a4059e876179",
+				latest: "第666章 像爸爸一样（全书完）"
+			}, {
+				ad: 0,
+				word_count: 573816,
+				owner: 0,
+				allow_discount: 0,
+				ad_time: 3,
+				ad_duration: 5,
+				score_count: 5,
+				title: "我的完美总裁老婆",
+				on_sale: true,
+				comment_count: 0,
+				click: 49469,
+				latest_id: 268,
+				score: 9.6,
+				allow_free_read: 1,
+				rights_id: 10080,
+				channel: [
+					1
+				],
+				updated: 1468301016,
+				finish: false,
+				tags: [
+					"都市生活",
+					"都市"
+				],
+				price: 5,
+				chapter_count: 269,
+				authors: "减肥茶",
+				categories: [{
+					category_id: 5000000,
+					label: "都市"
+				}, {
+					category_id: 5000100,
+					label: "都市生活"
+				}],
+				rights: "阅文集团旗下创世中文网",
+				level: 0,
+				cover: "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01dmo21KIc2/QVAVIsKHpW5fg3.jpg",
+				summary: "他是战场上的死亡收割机，暗黑世界最为神秘的‘八爷’！ 却因为一场婚约，龙潜花都！ “老婆...",
+				fiction_id: 322488,
+				outer_id: "5755f99e50e3a412a0a48fa1",
+				latest: "第269章初现佣兵！"
+			}]
+		},
+		size: 0
+	}, {
+		hidden_info: "[[type|book-list;show_vertical|1;title_align|left;show_count|5;more_text|更多新书抢鲜读>>]]",
+		ad_type: 101,
+		ad_priority: 3,
+		width: 0,
+		reference_id: "11069",
+		ad_pic_url: "",
+		ad_name: "新书入库",
+		height: 0,
+		data: {
+			count: 5,
+			total: 6,
+			data: [{
+				ad: 0,
+				word_count: 252483,
+				owner: 0,
+				allow_discount: 0,
+				ad_time: 3,
+				ad_duration: 5,
+				score_count: 6,
+				title: "天才兵王",
+				on_sale: true,
+				comment_count: 0,
+				click: 83210,
+				latest_id: 121,
+				score: 9.33,
+				allow_free_read: 1,
+				rights_id: 10080,
+				channel: [
+					1
+				],
+				updated: 1468271425,
+				finish: false,
+				tags: [
+					"都市激战",
+					"军事",
+					"军事战争"
+				],
+				price: 5,
+				chapter_count: 122,
+				authors: "江南小斌",
+				categories: [{
+					category_id: 7000000,
+					label: "军事"
+				}, {
+					category_id: 7000500,
+					label: "军事战争"
+				}],
+				rights: "阅文集团旗下创世中文网",
+				level: 0,
+				cover: "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01HhmESECee/RY54KYmfsyEj7I.jpg",
+				summary: "【免费精品新书】天才兵王强势回归，接到一个保护大小姐的任务，却不曾想那个要保护的大小姐居然是上次任务...",
+				fiction_id: 322625,
+				outer_id: "5755f9b150e3a412a6a48fb7",
+				latest: "第一百二十三章 方向南"
+			}, {
+				ad: 0,
+				word_count: 190108,
+				owner: 0,
+				allow_discount: 0,
+				ad_time: 3,
+				ad_duration: 5,
+				score_count: 7,
+				title: "苞谷地",
+				on_sale: true,
+				comment_count: 0,
+				click: 86943,
+				latest_id: 93,
+				score: 6.57,
+				allow_free_read: 1,
+				rights_id: 10080,
+				channel: [
+					1
+				],
+				updated: 1468314205,
+				finish: false,
+				tags: [
+					"恩怨情仇",
+					"都市"
+				],
+				price: 5,
+				chapter_count: 94,
+				authors: "酒天",
+				categories: [{
+					category_id: 5000000,
+					label: "都市"
+				}, {
+					category_id: 5000400,
+					label: "恩怨情仇"
+				}],
+				rights: "阅文集团旗下创世中文网",
+				level: 0,
+				cover: "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01yMT0GFRt0/rlHyH17gHwcTDG.jpg",
+				summary: "自从回到家乡——苞谷地，当上了小村医，嫂子再也不用担心我找不到女朋友了…… 【完本作品《超级姐夫》...",
+				fiction_id: 322419,
+				outer_id: "5755f9a950e3a412a5a48fab",
+				latest: "0094 梦游症"
+			}, {
+				ad: 0,
+				word_count: 419170,
+				owner: 0,
+				allow_discount: 0,
+				ad_time: 3,
+				ad_duration: 5,
+				score_count: 0,
+				title: "我的绝品美女总裁老婆",
+				on_sale: true,
+				comment_count: 0,
+				click: 92426,
+				latest_id: 197,
+				score: 0,
+				allow_free_read: 1,
+				rights_id: 10080,
+				channel: [
+					1
+				],
+				updated: 1468260890,
+				finish: false,
+				tags: [
+					"都市生活",
+					"都市"
+				],
+				price: 5,
+				chapter_count: 198,
+				authors: "萧正龙",
+				categories: [{
+					category_id: 5000000,
+					label: "都市"
+				}, {
+					category_id: 5000100,
+					label: "都市生活"
+				}],
+				rights: "阅文集团旗下创世中文网",
+				level: 0,
+				cover: "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01aycmyqlAB/RXCD9dEcgPAXNL.jpg",
+				summary: "萧晨回归都市后成为绝品美女总裁的贴身保镖。从此火爆警花、豪门闺秀、冷艳杀手、极品护士、御姐老师、气质...",
+				fiction_id: 322209,
+				outer_id: "5755f99f50e3a412a1a48f95",
+				latest: "第198章 角斗场中较量"
+			}, {
+				ad: 0,
+				word_count: 131658,
+				owner: 0,
+				allow_discount: 0,
+				ad_time: 3,
+				ad_duration: 5,
+				score_count: 13,
+				title: "我跟天庭抢红包",
+				on_sale: true,
+				comment_count: 0,
+				click: 8909,
+				latest_id: 52,
+				score: 10,
+				allow_free_read: 1,
+				rights_id: 10080,
+				channel: [
+					1
+				],
+				updated: 1468312805,
+				finish: false,
+				tags: [
+					"异术超能",
+					"都市"
+				],
+				price: 5,
+				chapter_count: 53,
+				authors: "韭上非",
+				categories: [{
+					category_id: 5000000,
+					label: "都市"
+				}, {
+					category_id: 5000300,
+					label: "异术超能"
+				}],
+				rights: "阅文集团旗下创世中文网",
+				level: 0,
+				cover: "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01OEcF3BQgY/PEbiHVlkVLll4h.jpg",
+				summary: "天相奇观，五星连珠，这么重要的日子，萧七竟然被戴了绿帽子。 意外的手机一响：七仙女邀请痞仙加入仙宫...",
+				fiction_id: 323470,
+				outer_id: "577f649c50e3a450ec642394",
+				latest: "第053章 再起波澜"
+			}, {
+				ad: 0,
+				word_count: 381602,
+				owner: 0,
+				allow_discount: 0,
+				ad_time: 3,
+				ad_duration: 5,
+				score_count: 7,
+				title: "透视小神农",
+				on_sale: true,
+				comment_count: 0,
+				click: 127725,
+				latest_id: 182,
+				score: 9.14,
+				allow_free_read: 1,
+				rights_id: 10080,
+				channel: [
+					1
+				],
+				updated: 1468263249,
+				finish: false,
+				tags: [
+					"异术超能",
+					"都市"
+				],
+				price: 5,
+				chapter_count: 183,
+				authors: "古哥欠",
+				categories: [{
+					category_id: 5000000,
+					label: "都市"
+				}, {
+					category_id: 5000300,
+					label: "异术超能"
+				}],
+				rights: "阅文集团旗下创世中文网",
+				level: 0,
+				cover: "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01OpOJnSlHE/nNKe5aymaCYysI.jpg",
+				summary: "李宵在山上整整睡了三年，三年之后，宁乡村村霸李宵回来了，村里没啥大变化，但李宵却有些不同。 他力气...",
+				fiction_id: 322508,
+				outer_id: "5755f9ae50e3a412a4a48fb4",
+				latest: "第183章 出奇制胜"
+			}, {
+				ad: 0,
+				word_count: 154664,
+				owner: 0,
+				allow_discount: 0,
+				ad_time: 3,
+				ad_duration: 5,
+				score_count: 0,
+				title: "超能小村长",
+				on_sale: true,
+				comment_count: 0,
+				click: 8591,
+				latest_id: 70,
+				score: 0,
+				allow_free_read: 1,
+				rights_id: 10080,
+				channel: [
+					1
+				],
+				updated: 1468264389,
+				finish: false,
+				tags: [
+					"异术超能",
+					"都市"
+				],
+				price: 5,
+				chapter_count: 71,
+				authors: "喵星痞王",
+				categories: [{
+					category_id: 5000000,
+					label: "都市"
+				}, {
+					category_id: 5000300,
+					label: "异术超能"
+				}],
+				rights: "阅文集团旗下创世中文网",
+				level: 0,
+				cover: "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01Vh8mzTvRU/2Ap6ePvP8maTJe.jpg",
+				summary: "【火爆新书】小村长得到神秘力量，从此开启一段精彩绝伦的传奇人生。 当小村长遇上极品女上司、冷艳女总...",
+				fiction_id: 323467,
+				outer_id: "577f64a150e3a450e364239c",
+				latest: "第七十一章 威胁小美女"
+			}]
+		},
+		size: 0
+	}, {
+		hidden_info: "[[type|book-list;show_vertical|1;title_align|left;show_count|5;more_text|更多完本精品>>]]",
+		ad_type: 101,
+		ad_priority: 4,
+		width: 0,
+		reference_id: "11070",
+		ad_pic_url: "",
+		ad_name: "完结好书",
+		height: 0,
+		data: {
+			count: 5,
+			total: 6,
+			data: [{
+				ad: 0,
+				word_count: 3163445,
+				owner: 0,
+				allow_discount: 0,
+				ad_time: 3,
+				ad_duration: 5,
+				score_count: 177,
+				title: "网游之超级高手",
+				on_sale: true,
+				comment_count: 27,
+				click: 4260216,
+				latest_id: 1441,
+				score: 8.3,
+				allow_free_read: 1,
+				rights_id: 10020,
+				channel: [
+					1
+				],
+				updated: 1451359726,
+				finish: true,
+				tags: [
+					"热血",
+					"网游",
+					"无敌",
+					"升级",
+					"游戏",
+					"游戏生涯",
+					"游戏竞技"
+				],
+				price: 3,
+				chapter_count: 1442,
+				authors: "宽子",
+				categories: [{
+					category_id: 40000,
+					label: "游戏竞技"
+				}, {
+					category_id: 40200,
+					label: "游戏生涯"
+				}, {
+					category_id: 10000000,
+					label: "游戏"
+				}, {
+					category_id: 10000100,
+					label: "游戏生涯"
+				}],
+				rights: "小说阅读网",
+				level: 0,
+				cover: "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01VFZx0dQtW/QhERIv1HPPJbMZ.jpg",
+				summary: "游戏无敌天下狂，举目称霸世无双，不求游戏战无敌，只求无愧于兄弟！一个落魄的高手，曾经游戏的霸主回归，...",
+				fiction_id: 49340,
+				outer_id: "544f85b70ea49706f28b8cf5",
+				latest: "第1442章 后记"
+			}, {
+				ad: 0,
+				word_count: 2114189,
+				owner: 0,
+				allow_discount: 0,
+				ad_time: 3,
+				ad_duration: 5,
+				score_count: 16,
+				title: "官路沉沦",
+				on_sale: true,
+				comment_count: 0,
+				click: 560545,
+				latest_id: 618,
+				score: 8.37,
+				allow_free_read: 1,
+				rights_id: 10080,
+				channel: [
+					1
+				],
+				updated: 1434980007,
+				finish: true,
+				tags: [
+					"权谋",
+					"官场职场",
+					"宦海沉浮",
+					"扮猪吃虎",
+					"生活"
+				],
+				price: 5,
+				chapter_count: 619,
+				authors: "陈重",
+				categories: [{
+					category_id: 70000,
+					label: "官场职场"
+				}, {
+					category_id: 70200,
+					label: "宦海沉浮"
+				}, {
+					category_id: 13000000,
+					label: "职场"
+				}, {
+					category_id: 13000200,
+					label: "官场沉浮"
+				}],
+				rights: "阅文集团旗下起点中文网",
+				level: 0,
+				cover: "http://cover.read.duokan.com/mfsv2/download/s010/p01EjASdSgiF/dkKhuMxXKeWBAs.jpg",
+				summary: "在急流暗涌的官场上，面对无数潜在的对手与政敌，辗转沉浮，生死博奕，进而获得更大的权力掌握。 一个普通...",
+				fiction_id: 288880,
+				outer_id: "5581442150e3a407a315aed6",
+				latest: "第六百一十七章 忽如其来的调动（下）大结局"
+			}, {
+				ad: 0,
+				word_count: 986233,
+				owner: 0,
+				allow_discount: false,
+				ad_time: 3,
+				ad_duration: 5,
+				score_count: 39,
+				title: "极品医生",
+				on_sale: true,
+				comment_count: 0,
+				click: 1547188,
+				latest_id: 375,
+				score: 7.58,
+				allow_free_read: 1,
+				rights_id: 10020,
+				channel: [
+					1
+				],
+				updated: 1465871496,
+				finish: true,
+				tags: [
+					"爽文",
+					"若寻欢",
+					"都市",
+					"都市情缘",
+					"爱情婚姻",
+					"热血都市"
+				],
+				price: 3,
+				chapter_count: 376,
+				authors: "若寻欢",
+				categories: [{
+					category_id: 20000,
+					label: "热血都市"
+				}, {
+					category_id: 20100,
+					label: "都市情缘"
+				}, {
+					category_id: 5000000,
+					label: "都市"
+				}, {
+					category_id: 5000200,
+					label: "爱情婚姻"
+				}],
+				rights: "小说阅读网",
+				level: 0,
+				cover: "http://cover.read.duokan.com/mfsv2/download/s010/p01PBRiHPc76/FB4RIxnmkU4YdT.jpg",
+				summary: "【火热连载】【都市爽歪歪】在这个没有节操的年代，林小文凭借旷世医术，在这大都市中，混得风生水起。--...",
+				fiction_id: 315769,
+				outer_id: "5673d34450e3a460218042fe",
+				latest: "第376章 莫惹唐门妞"
+			}, {
+				ad: 0,
+				word_count: 9813662,
+				owner: 0,
+				allow_discount: 0,
+				ad_time: 3,
+				ad_duration: 5,
+				score_count: 174,
+				title: "百炼成仙",
+				on_sale: true,
+				comment_count: 8,
+				click: 1685393,
+				latest_id: 4373,
+				score: 8.19,
+				allow_free_read: 1,
+				rights_id: 10080,
+				channel: [
+					1
+				],
+				updated: 1434686767,
+				finish: true,
+				tags: [
+					"仙侠",
+					"扮猪吃虎",
+					"升级练功",
+					"热血",
+					"古典仙侠"
+				],
+				price: 5,
+				chapter_count: 4374,
+				authors: "幻雨",
+				categories: [{
+					category_id: 4000000,
+					label: "仙侠"
+				}, {
+					category_id: 4000100,
+					label: "古典仙侠"
+				}],
+				rights: "阅文集团旗下起点中文网",
+				level: 0,
+				cover: "http://cover.read.duokan.com/mfsv2/download/s010/p01hTbTPh17X/kbTRNpghFKf941.jpg",
+				summary: "仙路崎岖，百般磨练终成正果 一个没有灵根的少年，一个被认为是废物的家伙，在修真界不断地收购着各种废品...",
+				fiction_id: 271045,
+				outer_id: "5581424c50e3a4079d15a9a1",
+				latest: "后记"
+			}, {
+				ad: 0,
+				word_count: 6542303,
+				owner: 0,
+				allow_discount: false,
+				ad_time: 3,
+				ad_duration: 5,
+				score_count: 710,
+				title: "仙逆",
+				on_sale: true,
+				comment_count: 39,
+				click: 5216354,
+				latest_id: 2128,
+				score: 9.2,
+				allow_free_read: 1,
+				rights_id: 10080,
+				channel: [
+					1
+				],
+				updated: 1434361576,
+				finish: true,
+				tags: [
+					"暗黑",
+					"法宝",
+					"冷酷",
+					"仙侠",
+					"古典仙侠",
+					"武侠仙侠",
+					"奇幻修真"
+				],
+				price: 5,
+				chapter_count: 2129,
+				authors: "耳根",
+				categories: [{
+					category_id: 30000,
+					label: "武侠仙侠"
+				}, {
+					category_id: 30200,
+					label: "奇幻修真"
+				}, {
+					category_id: 4000000,
+					label: "仙侠"
+				}, {
+					category_id: 4000100,
+					label: "古典仙侠"
+				}],
+				rights: "阅文集团旗下起点中文网",
+				level: 0,
+				cover: "http://cover.read.duokan.com/mfsv2/download/s010/p013QShCFMgP/M2trDkbcpgFBvG.jpg",
+				summary: "顺为凡，逆则仙，只在心中一念间…… 请看耳根作品《仙逆》",
+				fiction_id: 43130,
+				outer_id: "53a41b560ea497236d0d6b79",
+				latest: "耳根新书——我欲封天！"
+			}, {
+				ad: 0,
+				word_count: 4250052,
+				owner: 0,
+				allow_discount: 0,
+				ad_time: 3,
+				ad_duration: 5,
+				score_count: 145,
+				title: "超级玉钱系统",
+				on_sale: true,
+				comment_count: 12,
+				click: 5638000,
+				latest_id: 1490,
+				score: 7.46,
+				allow_free_read: 1,
+				rights_id: 20002,
+				channel: [
+					1
+				],
+				updated: 1441012972,
+				finish: true,
+				tags: [
+					"青春校园",
+					"异术超能",
+					"都市",
+					"爱情婚姻",
+					"恩怨情仇",
+					"现实百态",
+					"都市生活"
+				],
+				price: 3,
+				chapter_count: 1491,
+				authors: "不是蚊子",
+				categories: [{
+					category_id: 5000000,
+					label: "都市"
+				}, {
+					category_id: 5000100,
+					label: "都市生活"
+				}, {
+					category_id: 5000200,
+					label: "爱情婚姻"
+				}, {
+					category_id: 5000300,
+					label: "异术超能"
+				}, {
+					category_id: 5000400,
+					label: "恩怨情仇"
+				}, {
+					category_id: 5000500,
+					label: "现实百态"
+				}, {
+					category_id: 5000600,
+					label: "青春校园"
+				}],
+				rights: "红袖添香",
+				level: 0,
+				cover: "http://cover.read.duokan.com/mfsv2/download/s010/p01xXVRbJ3J0/0Kxtkfucur7UH1.jpg",
+				summary: "落魄高中生偶得一神秘玉钱，开启玉钱内系统，系统内拥有诸多技能！",
+				fiction_id: 37635,
+				outer_id: "52d74e500ea49726724f86aa",
+				latest: "第一千五百三十六章 宇宙大劫难（大结局）"
+			}]
+		},
+		size: 0
+	}],
+	ad_setting_id: 369,
+	result: 0,
+	ad_setting_name: "H5-男生频道"
+}

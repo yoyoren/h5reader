@@ -1,0 +1,214 @@
+{
+	item: {
+		ad: 0,
+		word_count: 878156,
+		owner: 0,
+		allow_discount: 0,
+		ad_time: 3,
+		ad_duration: 5,
+		click: 1095204,
+		score_count: 10,
+		title: "重生豪门贵女",
+		on_sale: true,
+		comment_count: 0,
+		id: 1048009,
+		content: "她们是双生子，但却有着天壤之别！妹妹是家族宠儿，而她永远是家族累赘！直到被人迫害致死，她才幡然醒悟！男人说她痴心妄想、恬不知耻？哼，她不在乎！当光芒绽放于人前，曾经天之骄子的妹妹又如何？这次，任何人都休想再践踏她！",
+		source: 2,
+		latest_id: 256,
+		score: 7.2,
+		allow_free_read: 1,
+		toc: [],
+		rights_id: 10039,
+		channel: [
+			2
+		],
+		updated: 1465813495,
+		finish: true,
+		tags: [
+			"现言",
+			"总裁豪门"
+		],
+		started: 1388136845,
+		price: 5,
+		chapter_count: 257,
+		authors: "安想然",
+		categories: [{
+			category_id: 120000,
+			label: "总裁世家"
+		}, {
+			category_id: 120100,
+			label: "总裁豪门"
+		}, {
+			category_id: 18000000,
+			label: "现代言情"
+		}, {
+			category_id: 18000700,
+			label: "豪门世家"
+		}],
+		author_books_total: 4,
+		rights: "潇湘书院",
+		level: 0,
+		cover: "http://cover.read.duokan.com/mfsv2/download/s010/p015ETO6Z9bJ/LtQ5CK8SBqhcKy.jpg",
+		summary: "她们是双生子，但却有着天壤之别！妹妹是家族宠儿，而她永远是家族累赘！直到被人迫害致死，她才幡然醒悟！...",
+		source_id: 18218,
+		fiction_id: 18218,
+		outer_id: "52bd3f0c25ccbf2f060e1248",
+		latest: "番外八"
+	},
+	related: [{
+		ad: 0,
+		word_count: 3450721,
+		owner: 0,
+		allow_discount: 0,
+		ad_time: 3,
+		ad_duration: 5,
+		score_count: 33,
+		title: "豪门闪婚：帝少的神秘冷妻",
+		on_sale: true,
+		comment_count: 0,
+		click: 582689,
+		latest_id: 1676,
+		score: 8.84,
+		allow_free_read: 1,
+		rights_id: 10080,
+		channel: [
+			2
+		],
+		updated: 1467828682,
+		finish: false,
+		tags: [
+			"总裁世家",
+			"现代言情",
+			"总裁豪门",
+			"豪门世家"
+		],
+		price: 5,
+		chapter_count: 1677,
+		authors: "青湖醉",
+		categories: [{
+			category_id: 120000,
+			label: "总裁世家"
+		}, {
+			category_id: 120100,
+			label: "总裁豪门"
+		}, {
+			category_id: 18000000,
+			label: "现代言情"
+		}, {
+			category_id: 18000700,
+			label: "豪门世家"
+		}],
+		rights: "阅文集团旗下云起书院",
+		level: 0,
+		cover: "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01oizQPAZ1R/qRtVhB0vzWkosf.jpg",
+		summary: "“谈少，你别忘了我们的婚前约定，我们只是假结婚。”顾以安咬牙切齿地握住某人探入她领口的手。谈晋承邪肆...",
+		fiction_id: 270642,
+		outer_id: "5582334a50e3a473914c7ece",
+		latest: "第1677章 无法置信4"
+	}, {
+		ad: 0,
+		word_count: 3373884,
+		owner: 0,
+		allow_discount: 0,
+		ad_time: 3,
+		ad_duration: 5,
+		score_count: 10,
+		title: "新婚告急：名门天价妻",
+		on_sale: true,
+		comment_count: 0,
+		click: 356186,
+		latest_id: 3253,
+		score: 7,
+		allow_free_read: 1,
+		rights_id: 10080,
+		channel: [
+			2
+		],
+		updated: 1467884165,
+		finish: false,
+		tags: [
+			"总裁世家",
+			"现代言情",
+			"总裁豪门",
+			"豪门世家"
+		],
+		price: 5,
+		chapter_count: 3254,
+		authors: "公子寞潇",
+		categories: [{
+			category_id: 120000,
+			label: "总裁世家"
+		}, {
+			category_id: 120100,
+			label: "总裁豪门"
+		}, {
+			category_id: 18000000,
+			label: "现代言情"
+		}, {
+			category_id: 18000700,
+			label: "豪门世家"
+		}],
+		rights: "阅文集团旗下云起书院",
+		level: 0,
+		cover: "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01uNX0Xz7FO/eeinTBdDPOvmVX.jpg",
+		summary: "叶景菡五年前糊里糊涂的犯了个错，还顺手给了几个钢镚当谢礼。五年后再见，却是…… 宴会厅的角落，娇小的...",
+		fiction_id: 284271,
+		outer_id: "5582331050e3a4738e4c7f83",
+		latest: "第3252章 大结局【259】"
+	}, {
+		ad: 0,
+		word_count: 412894,
+		owner: 0,
+		allow_discount: 0,
+		ad_time: 3,
+		ad_duration: 5,
+		score_count: 0,
+		title: "妖孽老公接招吧",
+		on_sale: true,
+		comment_count: 0,
+		click: 2818,
+		latest_id: 449,
+		score: 0,
+		allow_free_read: 1,
+		rights_id: 10020,
+		channel: [
+			2
+		],
+		updated: 1468311227,
+		finish: false,
+		tags: [
+			"豪门",
+			"冤家",
+			"总裁",
+			"总裁世家",
+			"总裁豪门",
+			"现代言情",
+			"豪门世家"
+		],
+		price: 3,
+		chapter_count: 450,
+		authors: "蒙奇奇",
+		categories: [{
+			category_id: 120000,
+			label: "总裁世家"
+		}, {
+			category_id: 120100,
+			label: "总裁豪门"
+		}, {
+			category_id: 18000000,
+			label: "现代言情"
+		}, {
+			category_id: 18000700,
+			label: "豪门世家"
+		}],
+		rights: "小说阅读网",
+		level: 0,
+		cover: "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01G6VHwrJxn/2gDZPgkJFFi8b0.jpg",
+		summary: "因为一场意外的交通事故，她惹上国内最大的传媒集团总裁。 他是大名鼎鼎的大boss，身价上亿的钻石王...",
+		fiction_id: 323392,
+		outer_id: "577f605450e3a42bee8299a5",
+		latest: "第450章 谁要你喜欢！"
+	}],
+	author_books: [],
+	result: 0
+}
