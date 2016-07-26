@@ -3,6 +3,7 @@ var koa_static = require('koa-static-server');
 var app = koa();
 var reload = require('auto-reload');
 var controller = require('koa-route');
+var service = require('./service/webAppService.js');
 var views = require('co-views')
 var render = views('./view', {
   map: { html: 'ejs' }
@@ -55,4 +56,9 @@ app.use(controller.get('/user-center', function*(){
 	this.body = yield render('user-center',{nav:'用户中心'});
 }));
 
+
+app.use(controller.get('/ajax/index', function*(){
+	this.set('Cache-Control', 'no-cache');
+	this.body = service.get_index_data();
+}));
 app.listen(3000);
