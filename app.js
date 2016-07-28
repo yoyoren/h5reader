@@ -39,6 +39,13 @@ app.use(controller.get('/backet', function*(){
 	this.set('Cache-Control', 'no-cache');
 	this.body = yield render('backet');
 }));
+ var querystring = require('querystring')
+app.use(controller.get('/book', function*(){
+	this.set('Cache-Control', 'no-cache');
+	var params = querystring.parse(this.req._parsedUrl.query);
+	var bookId = params.id;
+	this.body = yield render('book',{nav:'书籍详情',bookId:bookId});
+}));
 
 app.use(controller.get('/search', function*(){
 	this.set('Cache-Control', 'no-cache');
@@ -60,5 +67,12 @@ app.use(controller.get('/user-center', function*(){
 app.use(controller.get('/ajax/index', function*(){
 	this.set('Cache-Control', 'no-cache');
 	this.body = service.get_index_data();
+}));
+
+app.use(controller.get('/ajax/book', function*(e){
+	this.set('Cache-Control', 'no-cache');
+	//console.log(this.req);
+	var id = "";
+	this.body = service.get_book_data(id);
 }));
 app.listen(3000);

@@ -7,7 +7,8 @@
 			<ul class="list-h5">
 				<li v-for="item in hot">
 					<div class="book-h5" data-href="#page=book&amp;source_id=44591&amp;source=2">
-						<div class="book-h5__cover Lazy_loading Lazy_loaded" data-id="44591" id="Tag__6">
+						<a href="/book?id={{ item.fiction_id }}">
+						<div class="book-h5__cover Lazy_loading Lazy_loaded">
 							<img alt="我们住在一起" v-bind:src="item.cover">
 							<div class="u-tagRT"></div>
 							<p class="book-h5__finish">完结</p>
@@ -24,6 +25,7 @@
 							<div class="book-h5__tag" v-for="tag in item.tags">{{ tag }}</div>
 						</div>
 					</div>
+					</a>
 				</div>
 			</li>
 		</ul>

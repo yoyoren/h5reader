@@ -1,214 +1,221 @@
 {
-	item: {
-		ad: 0,
-		word_count: 878156,
-		owner: 0,
-		allow_discount: 0,
-		ad_time: 3,
-		ad_duration: 5,
-		click: 1095204,
-		score_count: 10,
-		title: "重生豪门贵女",
-		on_sale: true,
-		comment_count: 0,
-		id: 1048009,
-		content: "她们是双生子，但却有着天壤之别！妹妹是家族宠儿，而她永远是家族累赘！直到被人迫害致死，她才幡然醒悟！男人说她痴心妄想、恬不知耻？哼，她不在乎！当光芒绽放于人前，曾经天之骄子的妹妹又如何？这次，任何人都休想再践踏她！",
-		source: 2,
-		latest_id: 256,
-		score: 7.2,
-		allow_free_read: 1,
-		toc: [],
-		rights_id: 10039,
-		channel: [
-			2
-		],
-		updated: 1465813495,
-		finish: true,
-		tags: [
-			"现言",
-			"总裁豪门"
-		],
-		started: 1388136845,
-		price: 5,
-		chapter_count: 257,
-		authors: "安想然",
-		categories: [{
-			category_id: 120000,
-			label: "总裁世家"
+	"item": {
+		"ad": 0,
+		"word_count": 70977,
+		"owner": 0,
+		"allow_discount": 0,
+		"ad_time": 0,
+		"ad_duration": 0,
+		"click": 2438627,
+		"score_count": 113,
+		"title": "老九门",
+		"on_sale": true,
+		"comment_count": 0,
+		"has_ad": 0,
+		"id": 1724032,
+		"content": "【陈伟霆、张艺兴、赵丽颖主演，同名电视剧正在热播】民国时期，长沙车站开来一辆来历不明的火车，彻查发现来自一座深山中的百年矿山，因为常年开采导致地皮塌陷，矿山中弥漫着一股奇怪的浓雾，长沙老九门盗墓家族张家和红家经过了一番查探，发现了深埋矿山之下，有着另外一个秘密，经过一番探险，他们深入矿山之中，来到矿山的底部，看到了让人无法置信的景象。千年之前坠落的三颗陨石，长白山下埋藏的秘密，他们到底从矿山底部带出了什么东西，为何世界慢慢变的异样诡异？",
+		"source": 2,
+		"latest_id": 41,
+		"score": 7.8,
+		"allow_free_read": 1,
+		"toc": [],
+		"rights_id": 10080,
+		"channel": [1],
+		"updated": 1469173947,
+		"finish": false,
+		"tags": ["寻墓探险", "悬疑探险", "灵异"],
+		"started": 1469168519,
+		"price": 5,
+		"chapter_count": 42,
+		"authors": "南派三叔",
+		"categories": [{
+			"category_id": 8000000,
+			"label": "灵异"
 		}, {
-			category_id: 120100,
-			label: "总裁豪门"
-		}, {
-			category_id: 18000000,
-			label: "现代言情"
-		}, {
-			category_id: 18000700,
-			label: "豪门世家"
+			"category_id": 8000300,
+			"label": "悬疑探险"
 		}],
-		author_books_total: 4,
-		rights: "潇湘书院",
-		level: 0,
-		cover: "http://cover.read.duokan.com/mfsv2/download/s010/p015ETO6Z9bJ/LtQ5CK8SBqhcKy.jpg",
-		summary: "她们是双生子，但却有着天壤之别！妹妹是家族宠儿，而她永远是家族累赘！直到被人迫害致死，她才幡然醒悟！...",
-		source_id: 18218,
-		fiction_id: 18218,
-		outer_id: "52bd3f0c25ccbf2f060e1248",
-		latest: "番外八"
+		"author_books_total": 2,
+		"rights": "阅文集团旗下起点中文网",
+		"level": 0,
+		"cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01TQfpyV6px/06EirDzmjj8zuK.jpg",
+		"summary": "【陈伟霆、张艺兴、赵丽颖主演，同名电视正在热播】民国时期，长沙车站开来一辆来历不明的火车，彻查发现",
+		"source_id": 323725,
+		"fiction_id": 323725,
+		"outer_id": "5791bb8850e3a4587b490db2",
+		"latest": "第二十七章 缠斗"
 	},
-	related: [{
-		ad: 0,
-		word_count: 3450721,
-		owner: 0,
-		allow_discount: 0,
-		ad_time: 3,
-		ad_duration: 5,
-		score_count: 33,
-		title: "豪门闪婚：帝少的神秘冷妻",
-		on_sale: true,
-		comment_count: 0,
-		click: 582689,
-		latest_id: 1676,
-		score: 8.84,
-		allow_free_read: 1,
-		rights_id: 10080,
-		channel: [
-			2
-		],
-		updated: 1467828682,
-		finish: false,
-		tags: [
-			"总裁世家",
-			"现代言情",
-			"总裁豪门",
-			"豪门世家"
-		],
-		price: 5,
-		chapter_count: 1677,
-		authors: "青湖醉",
-		categories: [{
-			category_id: 120000,
-			label: "总裁世家"
+	"related": [{
+		"ad": 0,
+		"word_count": 599903,
+		"owner": 0,
+		"allow_discount": 0,
+		"ad_time": 0,
+		"ad_duration": 0,
+		"score_count": 1,
+		"title": "食咒",
+		"on_sale": true,
+		"comment_count": 0,
+		"has_ad": 0,
+		"click": 55868,
+		"latest_id": 228,
+		"score": 6.0,
+		"allow_free_read": 1,
+		"rights_id": 10080,
+		"channel": [1],
+		"updated": 1469613079,
+		"finish": false,
+		"tags": ["悬疑探险", "灵异"],
+		"price": 5,
+		"chapter_count": 229,
+		"authors": "蟋与蝉",
+		"categories": [{
+			"category_id": 8000000,
+			"label": "灵异"
 		}, {
-			category_id: 120100,
-			label: "总裁豪门"
-		}, {
-			category_id: 18000000,
-			label: "现代言情"
-		}, {
-			category_id: 18000700,
-			label: "豪门世家"
+			"category_id": 8000300,
+			"label": "悬疑探险"
 		}],
-		rights: "阅文集团旗下云起书院",
-		level: 0,
-		cover: "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01oizQPAZ1R/qRtVhB0vzWkosf.jpg",
-		summary: "“谈少，你别忘了我们的婚前约定，我们只是假结婚。”顾以安咬牙切齿地握住某人探入她领口的手。谈晋承邪肆...",
-		fiction_id: 270642,
-		outer_id: "5582334a50e3a473914c7ece",
-		latest: "第1677章 无法置信4"
+		"rights": "阅文集团旗下起点中文网",
+		"level": 0,
+		"cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01QivZjexs1/9FS6XpwmPq9ZxF.jpg",
+		"summary": "饭店的东西是不可以乱吃的！因为你吃下去的很可能是......\r\n\r\n本文将带你进入厨子的黑暗世界。\r...",
+		"fiction_id": 319741,
+		"outer_id": "5718455f50e3a46f452a60be",
+		"latest": "第四十七章：科技装备"
 	}, {
-		ad: 0,
-		word_count: 3373884,
-		owner: 0,
-		allow_discount: 0,
-		ad_time: 3,
-		ad_duration: 5,
-		score_count: 10,
-		title: "新婚告急：名门天价妻",
-		on_sale: true,
-		comment_count: 0,
-		click: 356186,
-		latest_id: 3253,
-		score: 7,
-		allow_free_read: 1,
-		rights_id: 10080,
-		channel: [
-			2
-		],
-		updated: 1467884165,
-		finish: false,
-		tags: [
-			"总裁世家",
-			"现代言情",
-			"总裁豪门",
-			"豪门世家"
-		],
-		price: 5,
-		chapter_count: 3254,
-		authors: "公子寞潇",
-		categories: [{
-			category_id: 120000,
-			label: "总裁世家"
+		"ad": 0,
+		"word_count": 243928,
+		"owner": 0,
+		"allow_discount": 0,
+		"ad_time": 0,
+		"ad_duration": 0,
+		"score_count": 27,
+		"title": "校园惊魂：我的初恋是厉鬼",
+		"on_sale": true,
+		"comment_count": 0,
+		"has_ad": 0,
+		"click": 277169,
+		"latest_id": 99,
+		"score": 8.66,
+		"allow_free_read": 1,
+		"rights_id": 10080,
+		"channel": [1],
+		"updated": 1465700482,
+		"finish": false,
+		"tags": ["灵异悬疑", "恐怖惊悚", "灵异"],
+		"price": 5,
+		"chapter_count": 100,
+		"authors": "梦入星河",
+		"categories": [{
+			"category_id": 50000,
+			"label": "灵异悬疑"
 		}, {
-			category_id: 120100,
-			label: "总裁豪门"
+			"category_id": 50200,
+			"label": "恐怖惊悚"
 		}, {
-			category_id: 18000000,
-			label: "现代言情"
+			"category_id": 8000000,
+			"label": "灵异"
 		}, {
-			category_id: 18000700,
-			label: "豪门世家"
+			"category_id": 8000200,
+			"label": "恐怖惊悚"
 		}],
-		rights: "阅文集团旗下云起书院",
-		level: 0,
-		cover: "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01uNX0Xz7FO/eeinTBdDPOvmVX.jpg",
-		summary: "叶景菡五年前糊里糊涂的犯了个错，还顺手给了几个钢镚当谢礼。五年后再见，却是…… 宴会厅的角落，娇小的...",
-		fiction_id: 284271,
-		outer_id: "5582331050e3a4738e4c7f83",
-		latest: "第3252章 大结局【259】"
+		"rights": "阅文集团旗下创世中文网",
+		"level": 0,
+		"cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01i8Qo2TuU3/IcyOEngmwcpps5.jpg",
+		"summary": "大红的霓裳，大红的冠顶，大红的绣花鞋，她一身上下，仿佛浸染过人世间最浓郁的鲜血，一头长发如墨，在烈烈...",
+		"fiction_id": 271520,
+		"outer_id": "5582352d50e3a473924c8758",
+		"latest": "第109章 六阴解梦，梦魇散去"
 	}, {
-		ad: 0,
-		word_count: 412894,
-		owner: 0,
-		allow_discount: 0,
-		ad_time: 3,
-		ad_duration: 5,
-		score_count: 0,
-		title: "妖孽老公接招吧",
-		on_sale: true,
-		comment_count: 0,
-		click: 2818,
-		latest_id: 449,
-		score: 0,
-		allow_free_read: 1,
-		rights_id: 10020,
-		channel: [
-			2
-		],
-		updated: 1468311227,
-		finish: false,
-		tags: [
-			"豪门",
-			"冤家",
-			"总裁",
-			"总裁世家",
-			"总裁豪门",
-			"现代言情",
-			"豪门世家"
-		],
-		price: 3,
-		chapter_count: 450,
-		authors: "蒙奇奇",
-		categories: [{
-			category_id: 120000,
-			label: "总裁世家"
+		"ad": 0,
+		"word_count": 1506629,
+		"owner": 0,
+		"allow_discount": 0,
+		"ad_time": 0,
+		"ad_duration": 0,
+		"score_count": 16,
+		"title": "阴阳天师",
+		"on_sale": true,
+		"comment_count": 0,
+		"has_ad": 0,
+		"click": 203382,
+		"latest_id": 720,
+		"score": 7.5,
+		"allow_free_read": 1,
+		"rights_id": 10080,
+		"channel": [1],
+		"updated": 1468229857,
+		"finish": false,
+		"tags": ["灵异悬疑", "灵异奇谈", "灵异神怪", "灵异"],
+		"price": 5,
+		"chapter_count": 721,
+		"authors": "落语",
+		"categories": [{
+			"category_id": 50000,
+			"label": "灵异悬疑"
 		}, {
-			category_id: 120100,
-			label: "总裁豪门"
+			"category_id": 50300,
+			"label": "灵异神怪"
 		}, {
-			category_id: 18000000,
-			label: "现代言情"
+			"category_id": 8000000,
+			"label": "灵异"
 		}, {
-			category_id: 18000700,
-			label: "豪门世家"
+			"category_id": 8000400,
+			"label": "灵异奇谈"
 		}],
-		rights: "小说阅读网",
-		level: 0,
-		cover: "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01G6VHwrJxn/2gDZPgkJFFi8b0.jpg",
-		summary: "因为一场意外的交通事故，她惹上国内最大的传媒集团总裁。 他是大名鼎鼎的大boss，身价上亿的钻石王...",
-		fiction_id: 323392,
-		outer_id: "577f605450e3a42bee8299a5",
-		latest: "第450章 谁要你喜欢！"
+		"rights": "阅文集团旗下创世中文网",
+		"level": 0,
+		"cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01aEqw2vIGw/I3bD0QHJuwJjpg.jpg",
+		"summary": "无论你信不信这个世界上有鬼，我却从小和它们为伍。七年前，我一直追随师父走南闯北，见识过形形色色的古怪...",
+		"fiction_id": 302188,
+		"outer_id": "5582351750e3a4738e4c8776",
+		"latest": "第七百二十一章 各方震动"
 	}],
-	author_books: [],
-	result: 0
+	"author_books": [{
+		"ad": 0,
+		"word_count": 1441873,
+		"owner": 0,
+		"allow_discount": false,
+		"ad_time": 0,
+		"ad_duration": 0,
+		"score_count": 8854,
+		"title": "盗墓笔记",
+		"on_sale": true,
+		"comment_count": 1927,
+		"has_ad": 0,
+		"click": 34069097,
+		"latest_id": 481,
+		"score": 9.0,
+		"allow_free_read": 1,
+		"rights_id": 10080,
+		"channel": [1],
+		"updated": 1450801819,
+		"finish": true,
+		"tags": ["升级练功", "盗墓探险", "盗墓", "热血", "灵异悬疑"],
+		"price": 5,
+		"chapter_count": 482,
+		"authors": "南派三叔",
+		"categories": [{
+			"category_id": 50000,
+			"label": "灵异悬疑"
+		}, {
+			"category_id": 50400,
+			"label": "盗墓探险"
+		}, {
+			"category_id": 8000000,
+			"label": "灵异"
+		}, {
+			"category_id": 8000300,
+			"label": "悬疑探险"
+		}],
+		"rights": "阅文集团旗下起点中文网",
+		"level": 0,
+		"cover": "http://cover.read.duokan.com/mfsv2/download/s010/p01yfPOuJRok/dQJSYfAnD3AB42.jpg",
+		"summary": "这神秘的墓主人到底是谁，他们到底能不能找到真正的棺椁？",
+		"fiction_id": 270635,
+		"outer_id": "5581401c50e3a4079e15a4f9",
+		"latest": "《后记》下"
+	}],
+	"result": 0
 }
