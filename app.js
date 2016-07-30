@@ -63,6 +63,24 @@ app.use(controller.get('/user-center', function*(){
 	this.body = yield render('user-center',{nav:'用户中心'});
 }));
 
+app.use(controller.get('/reader', function*(){
+	this.set('Cache-Control', 'no-cache');
+	this.body = yield render('reader');
+}));
+
+//阅读器改造代码
+app.use(controller.get('/ajax/reader/content', function*(){
+	this.set('Cache-Control', 'no-cache');
+	var params = querystring.parse(this.req._parsedUrl.query);
+	var chapterId = params.chapterid;
+	this.body = service.get_reader_content_data(chapterId);
+}));
+
+app.use(controller.get('/ajax/reader/chapter', function*(){
+	this.set('Cache-Control', 'no-cache');
+	this.body = service.get_reader_chapter_data();
+}));
+
 
 app.use(controller.get('/ajax/index', function*(){
 	this.set('Cache-Control', 'no-cache');
