@@ -1,13 +1,15 @@
 <section class="top-home">
-	<div class="top-home__search" data-href="#page=search">输入书名/作者/关键字</div>
+	<a href="/search"><div class="top-home__search" data-href="#page=search">输入书名/作者/关键字</div></a>
 
-	<div class="Swipe slider-banner Destructor" data-track="s" id="Tag__2">
+	<div class="Swipe slider-banner Destructor">
 		<div style="width: 719px; transition-duration: 0s; transform: translate3d(0px, 0px, 0px);">
-			<div data-track="0" style="width: 719px;">
-				<div class="u-topic" data-href="http://dushu.xiaomi.com/#page=channel&amp;id=410" da="ch_418.0.n.0" expose="">
+			<div data-track="0" style="width: 719px;" v-for="item in top" v-if="$index==0">
+				<a href="{{ item.reference_id }}">
+				<div class="u-topic">
 					<div class="banner">
-						<img class="cover" src="http://image.read.duokan.com/mfsv2/download/fdsc3/p01SJgz7PyCu/jte7bnN90FauW2.jpg"></div>
+						<img class="cover" v-bind:src="item.ad_pic_url"></div>
 				</div>
+			</a>
 			</div>
 		</div>
 		<div class="Swipe-tab">
@@ -16,9 +18,29 @@
 	</div>
 
 	<ul class="top-home__btn">
-		<li data-href="#page=channel&amp;id=369?" data-title="男生">
-			<img class="top-home__icon" src="http://image.read.duokan.com/mfsv2/download/s010/p01lq7mbkaEJ/OGlv1em8buXDgB.png">
-			<p class="top-home__des">男生</p>
+		<li>
+			<a href="/channel?id=male">
+				<img class="top-home__icon" src="/static/img/male.png">
+				<p class="top-home__des">男生</p>
+			</a>
+		</li>
+		<li>
+			<a href="/channel?id=female">
+				<img class="top-home__icon" src="/static/img/female.png">
+				<p class="top-home__des">女生</p>
+			</a>
+		</li>
+		<li>
+			<a href="/category">
+				<img class="top-home__icon" src="/static/img/category.png">
+				<p class="top-home__des">分类</p>
+			</a>
+		</li>
+		<li>
+			<a href="/rank">
+				<img class="top-home__icon" src="/static/img/rank.png">
+				<p class="top-home__des">排行</p>
+			</a>
 		</li>
 	</ul>
 

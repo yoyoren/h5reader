@@ -55,7 +55,17 @@ app.use(controller.get('/search', function*(){
 
 app.use(controller.get('/channel', function*(){
 	this.set('Cache-Control', 'no-cache');
-	this.body = yield render('channel',{nav:'男生频道'});
+	this.body = yield render('channel',{nav:'频道'});
+}));
+
+app.use(controller.get('/rank', function*(){
+	this.set('Cache-Control', 'no-cache');
+	this.body = yield render('rank',{nav:'排行'});
+}));
+
+app.use(controller.get('/category', function*(){
+	this.set('Cache-Control', 'no-cache');
+	this.body = yield render('category',{nav:'分类'});
 }));
 
 app.use(controller.get('/user-center', function*(){
@@ -87,10 +97,26 @@ app.use(controller.get('/ajax/index', function*(){
 	this.body = service.get_index_data();
 }));
 
-app.use(controller.get('/ajax/book', function*(e){
+app.use(controller.get('/ajax/rank', function*(){
 	this.set('Cache-Control', 'no-cache');
-	//console.log(this.req);
+	this.body = service.get_rank_data();
+}));
+
+app.use(controller.get('/ajax/category', function*(){
+	this.set('Cache-Control', 'no-cache');
+	this.body = service.get_category_data();
+}));
+
+app.use(controller.get('/ajax/book', function*(){
+	this.set('Cache-Control', 'no-cache');
 	var id = "";
 	this.body = service.get_book_data(id);
+}));
+
+app.use(controller.get('/ajax/channel', function*(){
+	this.set('Cache-Control', 'no-cache');
+	var params = querystring.parse(this.req._parsedUrl.query);
+	var id = params.id;
+	this.body = service.get_channel_data(id);
 }));
 app.listen(3000);

@@ -6,13 +6,9 @@
 	</div>
 	<ul class="banner-h5__list">
 		<div>
-			<li>
-				<div class="banner-h5__cover" data-href="#page=topic&amp;type=fiction&amp;id=11231" da="ch_418.6.n.0" expose="">
-					<img class="cover" src="http://image.read.duokan.com/mfsv2/download/fdsc3/p01rVXo0xCn1/OFPQ5c3vIV8YuZ.png"></div>
-			</li>
-			<li>
-				<div class="banner-h5__cover" data-href="#page=topic&amp;type=fiction&amp;id=10963" da="ch_418.6.n.1" expose="">
-					<img class="cover" src="http://image.read.duokan.com/mfsv2/download/fdsc3/p01vFPxUNyBI/iTUGlf0VpiJPgG.jpg"></div>
+			<li v-for="item in topic">
+				<div class="banner-h5__cover">
+					<img class="cover" v-bind:src="item.ad_pic_url"></div>
 			</li>
 		</div>
 	</ul>

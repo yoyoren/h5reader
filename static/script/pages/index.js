@@ -1,10 +1,20 @@
-$.get('/ajax/index',function(d){
+$.get('/ajax/index', function(d) {
 	new Vue({
-	  el: '#app',
-	  data: {
-	    top : d.items[0].data,
-	    hot:d.items[1].data.data,
-	    recommend:d.items[2].data
-	  }
+		el: '#app',
+		data: {
+			top: d.items[0].data.data,
+			hot: d.items[1].data.data,
+			recommend: d.items[2].data,
+			female: d.items[3].data.data,
+			male: d.items[4].data.data,
+			free: d.items[5].data.data,
+			topic: d.items[6].data.data
+		},
+		methods: {
+			change: function(type) {
+				var temp = this[type].splice(0,3);
+				this[type] = [].concat(this[type],temp);	
+			}
+		}
 	});
-},'json');
+}, 'json');
