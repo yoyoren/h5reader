@@ -11,13 +11,13 @@
 	<div id="root">
 		<div class="Swipe Swipe_full Destructor">
 			<div style="width: 734px; transition-duration: 0s; transform: translate3d(0px, 0px, 0px);">
-				<div style="width: 734px;">
+				<div style="width: 734px;" id="app">
 					<% include include/header.html %>
 					<div class="Swipe Swipe_full container-scroll Destructor">
-						<div style="width: 1468px; transition-duration: 0s; transform: translate3d(0px, 0px, 0px);">
+						<div style="width: 1468px; transition-duration: {{ duration }}s; transform: translate3d({{ position }}px, 0px, 0px);">
 							<div style="width: 734px;">
 								<div class="Pull-scroll">
-									<div class="wrap" id="app">
+									<div class="wrap">
 										<div class="new-page channel-page">
 											<% include include/index-top.html %>
 											<% include include/index-hot.html %>
@@ -28,6 +28,9 @@
 											<% include include/index-bottom.html %></div>
 									</div>
 								</div>
+							</div>
+							<div style="width: 734px;">
+								<% include include/index-shelf.html %>
 							</div>
 						</div>
 					</div>
