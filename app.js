@@ -119,4 +119,14 @@ app.use(controller.get('/ajax/channel', function*(){
 	var id = params.id;
 	this.body = service.get_channel_data(id);
 }));
+
+app.use(controller.get('/ajax/search', function*(){
+	this.set('Cache-Control', 'no-cache');
+	var _this = this;
+	var params = querystring.parse(this.req._parsedUrl.query);
+	var start = params.start;
+	var end = params.end;
+	var keyword = params.keyword;
+	this.body = yield service.get_search_data(start,end,keyword);
+}));
 app.listen(3000);
