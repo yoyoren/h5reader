@@ -1,4 +1,4 @@
-<html manifest="cache.appcache">
+<html>
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,minimal-ui">
@@ -44,22 +44,10 @@
 											<div class="book-dash">
 												<div id="Tag__95">
 													<div class="wrap">
-														<ul class="btn-group" vp-show="$root.needPay()" style="display: none;">
-															<li>
-																<a class="u-btn2" vp-click="$root.readBook()">
-																	<span class="book-dash-text"></span>
-																</a>
-															</li>
-															<li>
-																<a class="u-btn3" vp-click="$root.pay()" vp-bind="$root.payText()">undefined元</a>
-															</li>
-														</ul>
-														<ul class="btn-group" vp-show="!$root.needPay() &amp;&amp; !$root.is10086()">
-															<li class="u-btn2" vp-click="$root.readBook()">
+							
+														<ul class="btn-group">
+															<li class="u-btn2" onclick="location.href='/reader'">
 																<span class="book-dash-text"></span>
-															</li>
-															<li>
-																<a class="u-btn3" vp-click="$root.download()" vp-bind="$root.downloadText()">下载</a>
 															</li>
 														</ul>
 													</div>
